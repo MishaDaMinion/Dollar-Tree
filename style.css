@@ -1,0 +1,13 @@
+body{
+    background-color:lightyellow;
+    text-align:center;
+}
+.movie i{
+    float:right;
+}
+.modal-body{
+    text-align:center;
+}
+.img_modal{
+    display:inline-block;
+}
